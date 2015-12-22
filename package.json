@@ -1,0 +1,25 @@
+{
+  "name": "node-performance-debug",
+  "version": "0.0.1",
+  "description": "Demo application to illustrate ways and techniques the a node.js application can be debugged.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node.js",
+    "cpuprofile",
+    "profile",
+    "debug",
+    "performance"
+  ],
+  "author": "Allen Evans",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "hjs": "0.0.6"
+  }
+}
